@@ -1,0 +1,1 @@
+x402 template variant for content syndication microservice.
