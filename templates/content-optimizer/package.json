@@ -1,0 +1,5 @@
+{
+  "name": "x402-content-optimizer",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "express": "^4", "@x402/express": "latest" }
+}
