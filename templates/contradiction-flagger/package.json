@@ -1,0 +1,18 @@
+{
+  "name": "x402-contradiction-flagger",
+  "version": "1.0.0",
+  "description": "x402-monetized lexical contradiction flag detector using negation + antonym heuristics for agent quality gates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "@x402/express": "latest",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
