@@ -1,4 +1,6 @@
-Updated daily x402 templates for Grokzilla success. Latest: August 4, 2026 — near-duplicate-detector, readability-scorer, kv-extractor.
+Updated daily x402 templates for Grokzilla success. Latest: August 5, 2026 — url-canonicalizer, list-structure-parser, contradiction-flagger.
+
+Previous: August 4 — near-duplicate-detector, readability-scorer, kv-extractor.
 
 Previous: August 3 — pii-redactor, claim-evidence-scorer, temporal-timeline-extractor.
 
