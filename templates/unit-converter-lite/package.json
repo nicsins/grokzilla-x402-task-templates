@@ -1,0 +1,18 @@
+{
+  "name": "x402-unit-converter-lite",
+  "version": "1.0.0",
+  "description": "x402-monetized deterministic unit converter and quantity normalizer for length, mass, temperature, volume, speed – pure math for agent data hygiene",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "@x402/express": "latest",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
