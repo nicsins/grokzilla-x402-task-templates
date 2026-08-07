@@ -1,4 +1,6 @@
-Updated daily x402 templates for Grokzilla success. Latest: August 6, 2026 — heading-outline-extractor, unit-converter-lite, token-cost-estimator.
+Updated daily x402 templates for Grokzilla success. Latest: August 7, 2026 — slug-extractor, table-to-json, diff-summary.
+
+Previous: August 6 — heading-outline-extractor, unit-converter-lite, token-cost-estimator.
 
 Previous: August 5 — url-canonicalizer, list-structure-parser, contradiction-flagger.
 
