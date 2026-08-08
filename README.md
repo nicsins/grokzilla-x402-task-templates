@@ -1,4 +1,6 @@
-Updated daily x402 templates for Grokzilla success. Latest: August 7, 2026 — slug-extractor, table-to-json, diff-summary.
+Updated daily x402 templates for Grokzilla success. Latest: August 8, 2026 — rag-text-chunker, json-flattener, content-fingerprint.
+
+Previous: August 7 — slug-extractor, table-to-json, diff-summary.
 
 Previous: August 6 — heading-outline-extractor, unit-converter-lite, token-cost-estimator.
 
